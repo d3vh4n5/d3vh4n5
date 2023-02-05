@@ -5,7 +5,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=JuanBasgall.JuanBasgall)
 <br>
 <p><em>Soy estudiante de programación en <a href="https://www.teclab.edu.ar/">Teclab</a>, estoy por empezar mi segundo año.💪
-  <br>Actualmente estoy terminando mi primera página web de pruebas (Trabajo Práctico) a la que llamé <a href="https://mercadolan.000webhostapp.com/">"Mercado Lan"</a>🔭</em></p>
+  <br>Actualmente estoy terminando mi primera página web de pruebas (Trabajo Práctico) a la que llamé <a href="https://mercadolan.000webhostapp.com/">"Mercado Lan"</a>.🔭</em></p>
 <br>
 
   
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
   
   
-  <em><b>¡Espero que mi perfil te haya resultado de interes!, ¡No dudes en darme follow y contantar conmigo! saludos..</b> 🙂</em>
+  <em><b>¡Espero que mi perfil te haya resultado de interés!, ¡No dudes en darme follow y contactar conmigo! saludos..</b> 🙂</em>
   
   ---
   
