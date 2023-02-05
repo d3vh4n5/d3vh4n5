@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Templates: https://github.com/JuanBasgall/Awesome-Profile-README-templates/blob/master/dynamic-realtime/JonathanGin52.md
+
+Editor: https://pandao.github.io/editor.md/en.html
 -->
 
   
