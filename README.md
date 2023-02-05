@@ -9,7 +9,7 @@
 <br>
 
   
-### Algo mas de mi...
+###✨ Algo mas de mi... ✨
   
   
   
@@ -46,5 +46,7 @@ Here are some ideas to get you started:
   
   
   <em><b>¡Espero que mi perfil te haya resultado de interes!, ¡No dudes en darme follow y contantar conmigo! saludos..</b> 🙂</em>
+  
+  ---
   
   ⭐️ From [JuanBasgall](https://github.com/JuanBasgall)
