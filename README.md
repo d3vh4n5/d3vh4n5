@@ -4,8 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/JuanBasgall?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=JuanBasgall.JuanBasgall)
 <br>
-<p><em>Soy estudiante de programación en <a href="https://www.teclab.edu.ar/">Teclab</a>, estoy por empezar mi segundo año.💪
-  <br>Actualmente estoy terminando mi primera página web de pruebas (Trabajo Práctico) a la que llamé <a href="https://mercadolan.000webhostapp.com/">"Mercado Lan"</a>.🔭</em></p>
+<p><em>Soy estudiante de programación en <a href="https://www.teclab.edu.ar/">Teclab</a> y estoy cursando mi segundo año.💪
+  <br>Actualmente estoy estudiando React y Django, tecnologías en las cuales estoy desarrollando proyectos. Para mas información visite mi <a href="https://d3vh4n5.com.ar/">Portfolio</a>.🔭</em></p>
 <br>
 
   
@@ -16,12 +16,12 @@
 ```PHP
 class juanBasgall($progStudent) {
         $pronouns = "he" | "him";
-        $code = [Javascript, HTML, CSS, Python, PHP];
+        $code = [Javascript, HTML, CSS, Python, PHP, Node, React];
         $tools = [Figma, Whimsical, VSC, NetBeans, phpMyAdmin, Postgree, SQL];
-        function others(){
-                $gamer = ["WoW", "Rocket_Leage", "Doom", "Halo"];
+        public function others(){
+                $gamer = ["WoW", "Rocket_Leage", "Counter Strike", "Doom", "Halo"];
                 $sports = "Swimming";
-                $instrument = "Guitar";       
+                $instruments = ["Guitar", "Piano"];
         }
 }
 ```
