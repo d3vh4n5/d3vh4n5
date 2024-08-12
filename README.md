@@ -4,8 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/JuanBasgall?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=JuanBasgall.JuanBasgall)
 <br>
-<p><em>Soy estudiante de programación en <a href="https://www.teclab.edu.ar/">Teclab</a> y estoy cursando mi segundo año.💪
-  <br>Actualmente estoy estudiando React y Django, tecnologías en las cuales estoy desarrollando proyectos. Para mas información visite mi <a href="https://d3vh4n5.com.ar/">Portfolio</a>.🔭</em></p>
+<p><em>Soy técnico superior en programación recibido en <a href="https://www.teclab.edu.ar/">Teclab</a>, los lenguajes que manejo son JavaScript/Typescript, PHP y Python, aunque me encantaría aprender C o Java y quizás lo haga más adelante..
+  <br>Tengo conocimientos en frameworks de Front-End como React, Next, Astro y Vue; así como también Express (js), Flask y Django (Python) y Codeigniter (php). Para mas información visite mi portfolio: [https://d3vh4n5.com.ar/](https://devhans.netlify.app/).🔭</em></p>
 <br>
 
   
@@ -14,14 +14,16 @@
   
   
 ```PHP
-class juanBasgall($progStudent) {
+final class JuanBasgall extends Programmer implements Technician {
         $pronouns = "he" | "him";
-        $code = [Javascript, HTML, CSS, Python, PHP, Node, React];
-        $tools = [Figma, Whimsical, VSC, NetBeans, phpMyAdmin, Postgree, SQL];
+        $code = ["Javascript", "HTML", "CSS", "Python", "PHP", "Node", "React", "SQL", "Mongo"];
+        $tools = ["VSC", "phpMyAdmin", "Postman", "Xamp"];
         public function others(){
-                $gamer = ["WoW", "Rocket_Leage", "Counter Strike", "Doom", "Halo"];
-                $sports = "Swimming";
-                $instruments = ["Guitar", "Piano"];
+                return [
+                    "games" => ["WoW", "Rocket_Leage", "Counter Strike", "Doom", "Halo"],
+                    "sports" => "Swimming",
+                    "instruments" => ["Guitar", "Piano"];
+                ];
         }
 }
 ```
