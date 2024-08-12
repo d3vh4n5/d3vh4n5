@@ -5,7 +5,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=JuanBasgall.JuanBasgall)
 <br>
 <p><em>Soy técnico superior en programación recibido en <a href="https://www.teclab.edu.ar/">Teclab</a>, los lenguajes que manejo son JavaScript/Typescript, PHP y Python, aunque me encantaría aprender C o Java y quizás lo haga más adelante..
-  <br>Tengo conocimientos en frameworks de Front-End como React, Next, Astro y Vue; así como también Express (js), Flask y Django (Python) y Codeigniter (php). Para mas información visite mi portfolio: [https://d3vh4n5.com.ar/](https://devhans.netlify.app/).🔭</em></p>
+  <br>Tengo conocimientos en frameworks de Front-End como React, Next, Astro y Vue; así como también Express (js), Flask y Django (Python) y Codeigniter (php). Para mas información visite mi portfolio: <a href="https://devhans.netlify.app/">https://devhans.netlify.app/</a>.🔭</em></p>
 <br>
 
   
